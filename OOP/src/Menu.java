@@ -20,6 +20,7 @@ public class Menu {
         System.out.println("\nNama buah " + buah.getNamaBuah() + " dengan harga Rp." + buah.getHargaBuah()
                 + " dan jumlah " + buah.getStokBuah() + "\nBerhasil ditambahkan.");
         App.listBuah.add(buah);
+
     }
 
     public static void loadDaftarBuah() {

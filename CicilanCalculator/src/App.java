@@ -1,6 +1,8 @@
+package CicilanCalculator.src;
+
 public class App {
 
     public static void main(String[] args) {
-        Cicilan.loadMainMenu();
+        CicilanReport.loadMainMenu();
     }
 }
